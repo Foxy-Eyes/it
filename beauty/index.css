@@ -1129,7 +1129,6 @@ only screen and (min-resolution: 192dpi) {} body {
     text-indent: -999px;
     width: 195px;
     height: 40px;
-    background: transparent url("s-sprite.png") no-repeat scroll -10px 0px;
     font-size: 0px;
 }
 .header .header-content-wrap .right-column {
